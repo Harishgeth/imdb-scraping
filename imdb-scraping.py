@@ -33,8 +33,4 @@ for i in range(50):
     with open("movie.json", "w") as f:
         json.dump(movies, f)
 
-# Write the movie data to a file
-
-
-# Print the first movie in the list
 print(movies[0])
