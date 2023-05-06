@@ -1,0 +1,4 @@
+IMDbPY==2022.7.9
+itemadapter==0.8.0
+pymongo==4.3.3
+scrapy==2.8.0
